@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
+
+@theme {
+  --font-sans: "Pretendard", "Noto Sans KR", sans-serif;
+  --color-mainbg: #7ea6e6;
+  --color-pointy: #4d6fe7;
+}
+
+@layer base {
+  body {
+    @apply font-sans antialiased text-gray-800 bg-slate-50;
+  }
+}
