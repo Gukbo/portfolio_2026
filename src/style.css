@@ -5,6 +5,20 @@
   --font-sans: "Pretendard", "Noto Sans KR", sans-serif;
   --color-mainbg: #7ea6e6;
   --color-pointy: #4d6fe7;
+
+  /* 💡 1. 변수 이름을 --animate-[이름] 형식으로 정확히 맞춰야 합니다. */
+  --animate-cloud-float: cloud-float 10s ease-in-out infinite;
+
+  /* 💡 2. @keyframes는 @theme 블록 안에 있어도 되고 밖에 있어도 됩니다. */
+  @keyframes cloud-float {
+    0%,
+    100% {
+      transform: translateY(0) scale(0.95);
+    }
+    50% {
+      transform: translateY(-30px) scale(1.05); /* 움직임 폭을 좀 더 키웠어요! */
+    }
+  }
 }
 
 @layer base {
