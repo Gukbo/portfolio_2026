@@ -1,4 +1,5 @@
-![portfolio (1)](https://github.com/user-attachments/assets/7c9c847e-d127-4ae9-87ff-a1e232376b68)
+![1 (1)](https://github.com/user-attachments/assets/88dfb7aa-242a-4bb1-8427-8daba4a4861f)
+
 
 FE Developer Portfolio
 > **"Poco a poco se va lejos"** (조금씩 천천히, 멀리 나아갑니다)
