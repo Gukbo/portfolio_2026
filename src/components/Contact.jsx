@@ -16,7 +16,7 @@ export default function Contact() {
         </div>
 
         <div className="lg:col-span-3 flex flex-col items-center lg:items-start text-center lg:text-left">
-          <p className="text-2xl md:text-3xl leading-snug md:leading-relaxed break-keep">
+          <p className="text-2xl font-bold md:text-3xl leading-snug md:leading-relaxed break-keep">
             천천히 꾸준히 성장하는 개발자 <br className="md:hidden" />
             <b className="text-blue-600">이한음</b>입니다.
           </p>

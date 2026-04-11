@@ -12,7 +12,7 @@ export default function Welcome() {
       <div className="relative z-10 flex flex-col items-center justify-center h-full text-center">
         <MainLottie />
 
-        <h1 className="font-extrabold text-[64px] text-white text-shadow-md leading-tight">
+        <h1 className="font-extrabold text-[32px] sm:text-[46px] md:text-[68px] text-white text-shadow-md leading-tight">
           Poco a poco se va lejos
         </h1>
 
