@@ -11,7 +11,7 @@ export default function Experience() {
         {Experience_DATA.map((exp) => (
           <div
             key={exp.name}
-            className="flex flex-col w-1/2 gap-4 border-2 border-gray-100 shadow-md mt-12 rounded-2xl p-6"
+            className="flex flex-col w-1/2 gap-4 border-2 border-gray-100 shadow-md mt-12 rounded-2xl p-6 break-keep"
           >
             <h2 className="text-xl font-bold mb-4">{exp.name}</h2>
             <p>📆 {exp.duration}</p>
