@@ -7,7 +7,7 @@ FE Developer Portfolio
 
 
 ## 🔗 Link
-- **Live Demo:** [배포 링크 수정 중]
+- **Live Demo:** [https://www.haneum.bio/]
 - **Blog:** [https://velog.io/@mebung2/posts]
 
 ---
